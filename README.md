@@ -9,6 +9,9 @@
 
 **Sequential threshold rules—the backbone of every SIEM—structurally fail on combined multi-vector attacks.** This is not a bug; it is by design. We have proven this structural vulnerability on real NSL-KDD network traffic. AEGIS-Q was built to solve this.
 
+**DEMO**
+
+![demo](pic/s.png)
 ---
 
 ##  The Problem: FIPS 203 and The Structural Flaw
